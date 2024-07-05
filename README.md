@@ -4,6 +4,5 @@ This project aims to develop a real-time eye blink detection system using comput
 
 Features:
 Real-time eye blink detection using webcam 
-Accurate detection of eye blinks using pre trained model ()
-Accurate detection of face blinks using pre trained model (haarcascade)
+Accurate detection of face and eye blinks using pre trained model
 User-friendly interface for easy usage
